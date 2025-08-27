@@ -85,12 +85,7 @@ The backend provides **authentication, user management, chat/message APIs, and W
 
   - `GET /api/users/all` — get all users
 
-- **Chats & Messages:**
 
-  - `GET /api/chats` — List user chats
-  - `POST /api/chats` — Create new chat
-  - `GET /api/messages/:chatId` — Get messages in a chat
-  - `POST /api/messages` — Send a message
 
 - **WebSocket:**
   - Real-time messaging via Socket.IO
