@@ -46,7 +46,7 @@ The backend provides **authentication, user management, chat/message APIs, and W
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/zytronicBack.git
+   git clone https://github.com/abdallaskar/zytronicfront.git
    cd zytronicBack
    ```
 
@@ -83,8 +83,7 @@ The backend provides **authentication, user management, chat/message APIs, and W
 
 - **User Management:**
 
-  - `GET /api/users` — Search users
-  - `GET /api/users/:id` — Get user profile
+  - `GET /api/users/all` — get all users
 
 - **Chats & Messages:**
 
