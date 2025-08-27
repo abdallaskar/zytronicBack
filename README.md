@@ -68,7 +68,7 @@ The backend provides **authentication, user management, chat/message APIs, and W
 
 4. **Start the server:**
    ```bash
-   npm start
+   node index
    ```
    The server will run on `http://localhost:5000` by default.
 
